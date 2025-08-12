@@ -9475,7 +9475,7 @@
   "tags": [],
   "servers": [
     {
-      "url": "/api"
+      "url": "http://immich.normand.space:1807/api"
     }
   ],
   "components": {
